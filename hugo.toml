@@ -2,7 +2,7 @@ baseURL = "https://volartrix.xyz"
 theme = "risotto"
 title = "volartrix.xyz"
 author = "RaphtikAtGHG"
-copyright = "© [RaphtikAtGHG](https://github.com/RaphtikAtGHG)."
+copyright = "© [RaphtikAtGHG](https://github.com/RaphtikAtGHG) 2024-present."
 paginate = 3
 languageCode = 'en-us'
 contentDir = 'content'
@@ -12,7 +12,21 @@ enableEmoji = true
 sectionPagesMenu = "main"
 
 [menu]
-
+    [[menu.main]]
+        identifier = "founder"
+        name = "Founder"
+        url = "/founder/"
+        weight = 10
+    [[menu.main]]
+        identifier = "posts"
+        name = "Blog-Posts"
+        url = "/posts/"
+        weight = 10
+    [[menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects/"
+        weight = 10
 
 [params]
 noindex = false
@@ -28,7 +42,7 @@ description = "The website for the volartrix project and other stuff"
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
 title = "GitHub"
-url = "https://github.com/RaphtikAtGHG"
+url = "https://github.com/volartrix"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
@@ -39,6 +53,11 @@ url = "mailto:info@volartrix.xyz"
 icon = "fa-brands fa-paypal"
 title = "Donate"
 url = "https://paypal.me/raphaelwegmann"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-discord"
+title = "Donate"
+url = "https://discord.gg/tYuW6SpYPf"
 
 [taxonomies]
 category = "categories"

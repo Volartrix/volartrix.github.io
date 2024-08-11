@@ -6,8 +6,29 @@
     <description>Recent content in Home on volartrix.xyz</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© [RaphtikAtGHG](https://github.com/RaphtikAtGHG).</copyright>
-    <lastBuildDate></lastBuildDate>
+    <copyright>© [RaphtikAtGHG](https://github.com/RaphtikAtGHG) 2024-present.</copyright>
+    <lastBuildDate>Sun, 11 Aug 2024 11:41:01 +0200</lastBuildDate>
     <atom:link href="https://volartrix.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://volartrix.xyz/projects/</link>
+      <pubDate>Sun, 11 Aug 2024 11:41:01 +0200</pubDate>
+      <guid>https://volartrix.xyz/projects/</guid>
+      <description>Current Projects There are no current projects&#xA;Planned Projects And Operating System (Name will probably be VolartrixOS) A UEFI Bootloader (Name will probably be PolarBoot) An IRC client (name will maybe be BlueChatIRC) </description>
+    </item>
+    <item>
+      <title>Posts</title>
+      <link>https://volartrix.xyz/posts/</link>
+      <pubDate>Sun, 11 Aug 2024 11:37:40 +0200</pubDate>
+      <guid>https://volartrix.xyz/posts/</guid>
+      <description>First Post The first Post ever well done if you could find it</description>
+    </item>
+    <item>
+      <title>Founder</title>
+      <link>https://volartrix.xyz/founder/</link>
+      <pubDate>Sat, 10 Aug 2024 23:16:12 +0200</pubDate>
+      <guid>https://volartrix.xyz/founder/</guid>
+      <description>Basic info So heres some basic info about me:&#xA;@name: Raphael @linux-distro: Arch-Linux @favorite-game: GTA V; Read Dead Redemption II @gender/sex: Male @country: Germany @hates: AFD, Optical Media Why the name Volartrix? So I chose volartrix becasue it sounds cool :P And this might seem wierd: It kinda sounds like the logo for a project like that would be purple (my favorite color). And V is one of my favorite characters with T.</description>
+    </item>
   </channel>
 </rss>

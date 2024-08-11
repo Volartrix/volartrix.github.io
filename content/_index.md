@@ -16,7 +16,9 @@ Hello all and welcome to **volartrix.xyz** a website all about the Volartrix Pro
 * This is an open-source project. Closed-source libraries etc. should be avoided
 * Please remeber that the *project* is just a collection of different projects
 
-## What is Volartix?
-Volartrix is a project created on 10/8/2024 by [RaphtikAtGHG](https://github.com/RaphtikAtGHG) which primarily focuses of bringing out open source (free[^1]) software that also has quality. We will probably use the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) in our project you can feel free to contribute tho be aware the garbage/junk code will not be merged! Be aware that Volartrix is mostly interested in lowlevel programming and such
+## What is Volartrix?
+Volartrix is a project created on 10/8/2024 by [RaphtikAtGHG](https://github.com/RaphtikAtGHG) which primarily focuses of bringing out open source (free[^1]) software that also has quality. We will probably use the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) in our project you can feel free to contribute tho be aware the garbage/junk code will not be merged! Be aware that Volartrix is mostly interested in lowlevel programming and such. There are some links on the sidebar that you can click on for socials etc.. Please remember to check out the blog for updates.
+
+
 
 [^1]: Free as in free in freedom
